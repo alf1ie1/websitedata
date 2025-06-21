@@ -1,10 +1,28 @@
 [
   {
-    "department": "Executive Team",
-    "role_name": "Assistant Development Officer - Temporary Closed",
-    "description": "For those with exceptional leadership and development skills.",
-    "description2": "We're looking for a Assistant Development Officer to join our team! If you're into scripting, designing, or helping bring big ideas to life — we want you on board.\n\nResponsibilities:\n- Assisting with task management\n- Helping with leading the development team and ensuring smooth operations\n- Implementing new updates / features\n- Giving creative input on overall gameplay experience\n- Bug fixing\n\nRequirements:\n- Good experience with Roblox Studio and Lua\n- Great communication + leadership skills\n- Able to meet deadlines\n- Passion for Roblox development\n- Basic experience with Google Workspace",
+    "department": "Senior Management Team",
+    "role_name": "Restaurant Manger - Temporary Closed",
+    "description": "For those with exceptional leadership and teamwork skills.",
+    "description2": "We're looking for a Restaurant Manager to join our team! If you're into managing departments, staffing, or helping bring big ideas to life — we want you on board.\n\nResponsibilities:\n- Assisting with task management\n- Helping with leading the Junior Management team and ensuring smooth operations\n- Implementing new systems / features\n-  Great communication + leadership skills\n- Able to meet deadlines\n- Passion for Roblox Communities\n- Basic experience with Google Workspace and Office",
+    "link": "/apply/1",
+    "link2": "",
+    "exclusive": true
+  }
+  {
+    "department": "Senior Management Team",
+    "role_name": "Assistant Restaurant Manger - Temporary Closed",
+    "description": "For those with exceptional leadership and teamwork skills.",
+    "description2": "We're looking for an Assistant Restaurant Manager to join our team! If you're into managing departments, staffing, or helping bring big ideas to life — we want you on board.\n\nResponsibilities:\n- Assisting with task management\n- Helping with leading the Junior Management team and ensuring smooth operations\n- Implementing new systems / features\n-  Great communication + leadership skills\n- Able to meet deadlines\n- Passion for Roblox Communities\n- Basic experience with Google Workspace and Office",
     "link": "/apply/2",
+    "link2": "",
+    "exclusive": true
+  }
+  {
+    "department": "Senior Management Team",
+    "role_name": "Restaurant Supervisor - Temporary Closed",
+    "description": "For those with exceptional leadership and teamwork skills.",
+    "description2": "We're looking for a Restaurant Supervisor to join our team! If you're into managing departments, staffing, or helping bring big ideas to life — we want you on board.\n\nResponsibilities:\n- Assisting with task management\n- Helping with leading the Junior Management team and ensuring smooth operations\n- Implementing new systems / features\n-  Great communication + leadership skills\n- Able to meet deadlines\n- Passion for Roblox Communities\n- Basic experience with Google Workspace and Office",
+    "link": "/apply/3",
     "link2": "",
     "exclusive": true
   }
